@@ -95,6 +95,18 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jRFdX6L/ligba4r.png",LA LIGA BAR OPCION 2
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="LIGA HYPERMOTION,LA LIGA HYPERMOTION OPCION 1
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OPCION 2
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2
+acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3
+acestream://778d2f60bb7207addedcca0b9aed98f41529724e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Gn4Q26H/ligseg4.png",LA LIGA HYPERMOTION 4
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png" group-title="CHAMPIONS LEAGUE,LIGA CAMPEONES OPCION 1
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OPCION 2
@@ -126,18 +138,6 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GTSgPdG/ligcam11.png",LIGA CAMPEONES 11
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/R2y0Xg9/ligcam12.png",LIGA CAMPEONES 12
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="LIGA HYPERMOTION,LA LIGA HYPERMOTION OPCION 1
-acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OPCION 2
-acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2
-acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3
-acestream://778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Gn4Q26H/ligseg4.png",LA LIGA HYPERMOTION 4
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="DAZN,DAZN 1 OPCION 1
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
