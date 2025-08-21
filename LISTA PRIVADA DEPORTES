@@ -83,7 +83,7 @@ acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 2 INGLES (LIGA ESP)
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="PRUEBA",ELEVEN SPORTS 1 PORTUGUES (LIGA ESP)
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png",ELEVEN SPORTS 1 PORTUGUES (LIGA ESP)
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/b5p9wz37/ttnsp1.png",TNT SPORTS 1 INGLES (LIGA ESP)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
