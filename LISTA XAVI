@@ -99,6 +99,8 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DDYS66df/fox2.png",FOX SPORTS 2 USA
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp",SKY SPORTS F1 ALEMAN
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV ALEMAN (MOTOGP)
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LIGA",LA LIGA OPCION 1
