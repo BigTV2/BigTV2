@@ -53,7 +53,7 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV ALEMAN (MOTOGP)
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OPCION 1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LIGA/CHAMPIONS",LA LIGA OPCION 1
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OPCION 2
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
@@ -95,7 +95,7 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jRFdX6L/ligba4r.png",LA LIGA BAR OPCION 2
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="LIGA HYPERMOTION,LA LIGA HYPERMOTION OPCION 1
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OPCION 1
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OPCION 2
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
@@ -107,7 +107,7 @@ acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png" group-title="CHAMPIONS,LIGA CAMPEONES OPCION 1
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OPCION 1
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OPCION 2
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
@@ -139,7 +139,7 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/R2y0Xg9/ligcam12.png",LIGA CAMPEONES 12
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="DAZN,DAZN 1 OPCION 1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png", group-title="OTROS DEPORTES" DAZN 1 OPCION 1
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OPCION 2
 acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
@@ -157,7 +157,7 @@ acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OPCION 3
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="MOVISTAR DEPORTES,DEPORTES OPCION 1
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OPCION 1
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OPCION 2
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
@@ -173,7 +173,7 @@ acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/6rv7qfX/mdp7.png",DEPORTES 7
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="OTROS DEPORTES",EUROSPORT 1
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
