@@ -95,6 +95,8 @@ acestream://86495fe134ff065d5217497babe6be33f81d37d1
 acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/fGdTHCT3/magsp.png",MAGENTA SPORT 11 ALEMAN
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/wNFMdvxB/VIAPORT.webp",VIASAT SPORT SUECIA
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0pw3NQt6/fox1.png",FOX SPORTS 1 USA
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DDYS66df/fox2.png",FOX SPORTS 2 USA
