@@ -31,10 +31,6 @@ acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4ZTYxnTJ/arenaa.png",ARENA SPORT ESLOVENIA (LIGA ESP)
 acestream://8386b45f870fb4469ee9297fb523f7f8aa621034
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR ALEMAN (LIGA ESP)
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR ALEMAN (LIGA ESP)
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 1 IRLANDES (LIGA ESP)
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRLANDES (LIGA ESP)
@@ -171,6 +167,10 @@ acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k8yX1rR/dzn4.png",DAZN 4
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR ALEMAN (LIGA ESP)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR ALEMAN (LIGA ESP)
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OPCION 1
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OPCION 2
