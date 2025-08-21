@@ -38,11 +38,11 @@ acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (4)
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (5)
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (6)
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (7)
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (6)
 acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 (7)
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 (1)
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 (2)
