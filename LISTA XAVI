@@ -177,7 +177,41 @@ acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OPCION 3
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OPCION 1 ESP
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OPCION 2 ESP
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OPCION 3 PL
+acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OPCION 4 RU
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OPCION 5 RU
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OPCION 6 DE
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OPCION 1 ESP
+acestream://0585e09bb8ac9720e4c11934f1b184e309291551
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OPCION 2 ESP
+acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OPCION 3 PL
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OPCION 4 RU
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OPCION 5 DE
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 1
+acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 2
+acestream://57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 3
+acestream://7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 4
+acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 5
+acestream://148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 6
+acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 7
+acestream://b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 8
+acestream://8f4f572005ca2557743474087aa622693ba9b5fe
