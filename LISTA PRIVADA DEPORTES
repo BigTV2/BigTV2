@@ -67,6 +67,10 @@ acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
 acestream://b18657f64507cc859cd7edef1aef90feb053e791
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/pBFGfv20/eu360.png",EUROSPORT 360 8
 acestream://8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SCnmVTw/tnnischanel.png",TENNIS CHANEL UK (1)
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SCnmVTw/tnnischanel.png",TENNIS CHANEL UK (2)
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS",ELEVEN SPORTS 1 POLACO (LIGA ESP)
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 4K POLACO (LIGA ESP)
