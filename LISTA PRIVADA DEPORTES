@@ -71,6 +71,8 @@ acestream://8f4f572005ca2557743474087aa622693ba9b5fe
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SCnmVTw/tnnischanel.png",TENNIS CHANEL UK (2)
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8gm6wdL9/skiportrna.png",SKY SPORTS ARENA UK
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS",ELEVEN SPORTS 1 POLACO (LIGA ESP)
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 4K POLACO (LIGA ESP)
@@ -141,7 +143,7 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/HDp7gkZJ/ski2.png",SKY SPORT 2 ALEMAN
 acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8gm6wdL9/skiportrna.png",SKY SPORT ARENA INGLES
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8gm6wdL9/skiportrna.png",SKY SPORTS ARENA INGLES
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 BELGICA
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
