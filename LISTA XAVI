@@ -3,7 +3,7 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 21/08/25 02:35 AM
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/spvZZR1X/Captura-de-pantalla-2025-08-22-221103.png",CASTILLA - LUGO 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/spvZZR1X/Captura-de-pantalla-2025-08-22-221103.png" group-title="CASTILLA - LUGO",CASTILLA - LUGO 
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS",ELEVEN SPORTS 1 PL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
