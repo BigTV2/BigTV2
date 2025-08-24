@@ -199,6 +199,10 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 acestream://01445a4b9f0cce21da59408d1a2c3d028b803a81
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3 OP.2
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Gn4Q26H/ligseg4.png",LA LIGA HYPERMOTION 4
+acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
+acestream://a1146358aa50c99c887108b17f62f9264186a16a
 #EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
 acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
@@ -211,6 +215,10 @@ acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.6
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/WzWry0G/ellsvms.webp",ELLAS OP.1
+acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/WzWry0G/ellsvms.webp",ELLAS OP.2
+acestream://9b84af74b2fa3690c519199326fc2f181b025cd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MOVISTAR+",MOVISTAR PLUS OP.1
 acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
@@ -359,3 +367,9 @@ acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.9
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1, tvg-logo="https://i.ibb.co/SnD0nKd/gf.png" group-title="GOLD",M. GOLF OP.1
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SnD0nKd/gf.png",M. GOLF OP.2
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png",M. GOLF 2
+acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
