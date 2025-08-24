@@ -199,6 +199,24 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 acestream://01445a4b9f0cce21da59408d1a2c3d028b803a81
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3 OP.2
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
+acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
+acestream://2940120bf034db79a7f5849846ccea0255172eae
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.3
+acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.4
+acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.5
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.6
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MOVISTAR+",MOVISTAR PLUS OP.1
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png",MOVISTAR PLUS 2
+acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS",ELEVEN SPORTS 1 PL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 4K PL
