@@ -17,8 +17,6 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GknB3mY/dep2.png",DEPORTES 2 OP.2
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/d42DfzzY/mplus.png",MOVISTAR PLUS
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/xTXDZLm5/depor3.png",DEPORTES 3
 acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/dQSgGDfy/depor4.png",DEPORTES 4
@@ -220,8 +218,10 @@ acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/WzWry0G/ellsvms.webp",ELLAS OP.2
 acestream://9b84af74b2fa3690c519199326fc2f181b025cd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MOVISTAR+",MOVISTAR PLUS OP.1
-acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png",MOVISTAR PLUS 2
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
