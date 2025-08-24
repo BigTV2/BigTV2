@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="MOVISTAR DEPORTES",DEPORTES OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="M. DEPORTES",DEPORTES OP.1
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
 acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
@@ -133,6 +133,24 @@ acestream://0103373118989085dd0d02667c629ee36d462cb1
 acestream://6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/R2y0Xg9/ligcam12.png",LIGA CAMPEONES 12
 acestream://130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="HYPERMOTION",LA LIGA HYPERMOTION OP.1
+acestream://fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OP.2
+acestream://83e8a605ffebe2062f15dad76b6ffe9486a28eb3
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OP.3
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OP.4
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2 OP.1
+acestream://f416f36cc1be370e3f9ac29cd6a9acc0d766f7ba
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2 OP.2
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2 OP.3
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3 OP.1
+acestream://01445a4b9f0cce21da59408d1a2c3d028b803a81
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8xy6Bm/laligsec3.png",LA LIGA HYPERMOTION 3 OP.2
+acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS",ELEVEN SPORTS 1 PL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 4K PL
