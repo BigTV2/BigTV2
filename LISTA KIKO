@@ -29,3 +29,15 @@ acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1, tvg-logo="https://i.ibb.co/spvZZR1X/Captura-de-pantalla-2025-08-22-221103.png" group-title="29/08/25 19:15H CASTILLA - LUGO",CASTILLA - LUGO 
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",LA1
+acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png",LA2
+acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png",ANTENA 3
+acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png",CUATRO
+acestream://18f63b299de66029e17dc35e12f6c244e1979a91
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png",LASEXTA
+acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png",TELECINCO
+acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
