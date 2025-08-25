@@ -21,7 +21,7 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.1
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
