@@ -71,6 +71,12 @@ acestream://8f4f572005ca2557743474087aa622693ba9b5fe
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SCnmVTw/tnnischanel.png",TENNIS CHANEL UK
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0vHdw3S/ski1.png",SKY SPORT 1 DE
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/HDp7gkZJ/ski2.png",SKY SPORT 2 DE
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tTkhjfYR/skiportevent.png",SKY SPORTS MAIN EVENT UK
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8gm6wdL9/skiportrna.png",SKY SPORTS ARENA UK
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1
@@ -307,11 +313,13 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 3 FR
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 TR
+acestream://118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 TR
 acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 3 FR
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 3 TR
 acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 4 FR
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 4 TR
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS HABER TR
 acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
