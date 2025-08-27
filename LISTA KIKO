@@ -1,31 +1,39 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/4TB4NCD/pngegg.png" group-title="ACTUALIZADO 24/08/25",ACTIVOS SOLO CUANDO HAY PARTIDO
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 24/08/25 02:35 AM
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 25/08/25 04:53 AM
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/4RFcrVg6/ovmadri.png" group-title="24/08/25 21:30H R.OVIEDO-R.MADRID",11 CANALES DISPONIBLES
+#EXTINF:-1, tvg-logo="https://i.ibb.co/spvZZR1X/Captura-de-pantalla-2025-08-22-221103.png" group-title="29/08/25 19:15H CASTILLA - LUGO",CASTILLA - LUGO 
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="30/25 21:30H R.MADRID-MALLORCA",10 CANALES DISPONIBLES
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png",ELEVEN SPORTS 1 PL
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 4K PL SOLO TV 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CANAL+SPORT 1 PL
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/fVkdY0TT/dznde.webp",DAZN 1 BAR DE
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRL
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 FR
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5WbPmwFd/dznlig1.png",DAZN LA LIGA OP.1
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5WbPmwFd/dznlig1.png",DAZN LA LIGA OP.2
-acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5WbPmwFd/dznlig1.png",DAZN LA LIGA OP.3
-acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1, tvg-logo="https://i.ibb.co/spvZZR1X/Captura-de-pantalla-2025-08-22-221103.png" group-title="29/08/25 19:15H CASTILLA - LUGO",CASTILLA - LUGO 
-https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.1
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.3
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.4
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.5
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.6
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.7
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.8
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
