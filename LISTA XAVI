@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i.ibb.co/4TB4NCD/pngegg.png" group-title="ACTUALIZADO 24/08/25",ACTIVOS SOLO CUANDO HAY PARTIDO
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo=https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 25/08/25 04:53 AM
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 29/08/25 21:30
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="30/08/25 21:30H R.MADRID-MALLORCA",10 CANALES DISPONIBLES
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
