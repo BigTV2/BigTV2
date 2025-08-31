@@ -3,7 +3,9 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 29/08/25 21:30
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="MADRID-MALLORCA 30/08/25 21:30H",10 CANALES DISPONIBLES
+#EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="CASTILLA - FERROL 06/09/25 21:30H",CASTILLA - FERROL
+https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="REAL SOCIEDAD - REAL MADRID 14/09/25 21:30H",10 CANALES DISPONIBLES
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CANAL+SPORT 1 PL
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
@@ -35,5 +37,3 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.8
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="06/09/25 21:30H CASTILLA - FERROL",CASTILLA - FERROL
-https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
