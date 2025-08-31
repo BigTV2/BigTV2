@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (RAYO  - BARÇA)
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo=https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 29/08/25 21:30
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (RAYO  - BARÇA)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="CASTILLA - FERROL 06/09/25 21:30H",CASTILLA - FERROL
 https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="REAL SOCIEDAD - REAL MADRID 14/09/25 18:00H",10 CANALES DISPONIBLES
