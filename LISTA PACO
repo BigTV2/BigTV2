@@ -21,8 +21,10 @@ acestream://43004e955731cd3afcc34d24e5178d4b427bff37
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.6
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="CASTILLA",CASTILLA - FERROL
-https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="CASTILLA",CASTILLA - FERROL OP.1
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CASTILLA - FERROL OP.2
+acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="REAL MADRID",R.SOCIEDAD - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CANAL+SPORT 1 PL
