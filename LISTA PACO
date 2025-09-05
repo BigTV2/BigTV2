@@ -23,7 +23,7 @@ acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="CASTILLA",CASTILLA - FERROL
 https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="REAL SOCIEDAD - REAL MADRID 14/09/25 18:00H",10 CANALES DISPONIBLES
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LX2pJky9/j3lig.png" group-title="REAL MADRID",R.SOCIEDAD - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CANAL+SPORT 1 PL
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
