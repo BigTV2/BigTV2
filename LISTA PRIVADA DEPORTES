@@ -203,6 +203,10 @@ acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
 acestream://a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="PRIMERA FEDERACION",PRIMERA FEDERACION OP.1 
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
+acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
 acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
