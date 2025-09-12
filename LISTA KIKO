@@ -27,5 +27,7 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.8
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1, tvg-logo="https://i.ibb.co/hR2jyQHx/Captura-de-pantalla-2025-08-29-212330.png" group-title="06/09/25 21:30H CASTILLA - FERROL",CASTILLA - FERROL
-https://crtvg-events1.flumotion.cloud/crtvg/events1_low/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
+acestream://b40212c43e96e97542ea00f2129212a054853a57
