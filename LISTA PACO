@@ -35,6 +35,8 @@ acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
+acestream://594b59d435527327c9b6965f247995b907bfc285
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.2
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.3
