@@ -13,6 +13,8 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MADRID BALONCESTO",MOVISTAR PLUS OP.1
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
