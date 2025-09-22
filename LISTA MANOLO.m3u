@@ -3,10 +3,8 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 06/02/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png" group-title="EXTRANJEROS FUTBOL",DAZN 2 PT (MADRID LIGA)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK (MADRID LIGA)
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="EXTRANJEROS FUTBOL",DAZN 1 PT (MADRID LIGA)
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1 4K
 acestream://6e5e31f2542b284557c3392c1918eb5030aed64e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
