@@ -11,6 +11,8 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MADRID BALONCESTO",MOVISTAR PLUS OP.1
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
 acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
