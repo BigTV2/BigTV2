@@ -19,8 +19,10 @@ acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.3
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (MADRID Y BARÇA LIGA)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK (MADRID CHAMPIONS)
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84YRtQDL/tntspor4.png",TNT SPORTS 4 UK (BARÇA CHAMPIONS)
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.1
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.2
