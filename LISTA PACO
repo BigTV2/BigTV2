@@ -3,10 +3,12 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 26/09/25
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/yjf1tgZ/Captura-de-pantalla-2025-09-26-224836.png" group-title="REAL MADRID",ATLETI - R.MADRID
+#EXTINF:-1, tvg-logo="https://i.ibb.co/yjf1tgZ/Captura-de-pantalla-2025-09-26-224836.png" group-title="REAL MADRID",KAIRAT - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
