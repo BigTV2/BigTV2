@@ -49,18 +49,8 @@ acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 acestream://eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k8yX1rR/dzn4.png",DAZN 4 OP.4
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="MADRID BALONCESTO",DAZN 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DDxpN2kx/dazn4por.webp",DAZN 4 PT
+#EXTINF:-1, tvg-logo="https://i.ibb.co/DDxpN2kx/dazn4por.webp" group-title="MADRID BALONCESTO",DAZN 4 PT (LIGA ACB)
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Ngcn9ddR/dazn5por.webp",DAZN 5 PT
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/KxfFtsvY/dazn6por.webp",DAZN 6 PT
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/kVm1K1Wy/SPKLPL.png",SPORT KLUB PL (LIGA ACB)
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.1
