@@ -15,18 +15,12 @@ acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.3
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="MADRID BALONCESTO",DAZN 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="MADRID BALONCESTO",DAZN ACB OP.1
+acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN ACB OP.2
+acestream://34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DDxpN2kx/dazn4por.webp",DAZN 4 PT (LIGA ACB)
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Ngcn9ddR/dazn5por.webp",DAZN 5 PT
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/KxfFtsvY/dazn6por.webp",DAZN 6 PT
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/kVm1K1Wy/SPKLPL.png",SPORT KLUB PL (LIGA ACB)
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.1
