@@ -339,6 +339,16 @@ acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nMg8svz9/vsport.png",VSEPROSPORT RU
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qM45FtRv/spnn.png",ESPN US
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qM45FtRv/spnn.png",ESPN 2 US
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qM45FtRv/spnn.png",ESPN NL
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qM45FtRv/spnn.png",ESPN 2 NL
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qM45FtRv/spnn.png",ESPN 4 NL
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
