@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="M. DEPORTES",DEPORTES OP.1
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84nrVyBV/pngwing-com.png",NETFLIX ALCARAZ
+acestream://a74a159b19626820888be32a75bd5cd986c6cfa8
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
 acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.3
