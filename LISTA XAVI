@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 26/11/25
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 30/11/25
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",OLYMPIACOS - R.MADRID
+#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",GIRONA - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DDxpN2kx/dazn4por.webp",DAZN 4 PT
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="MADRID BALONCESTO",DAZN ACB OP.1
 acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN ACB OP.2
