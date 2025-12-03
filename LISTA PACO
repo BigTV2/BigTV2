@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 02/11/25
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (BARÇA LIGA)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",ATHLETIC - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
