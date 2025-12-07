@@ -7,6 +7,10 @@ acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/KcQf3NYf/SSPORT1.png",S SPORT 1 TR
+acestream://6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="MADRID BALONCESTO",DAZN ACB OP.1
 acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN ACB OP.2
