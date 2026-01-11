@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 09/01/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 11/01/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",BARCELONA - R.MADRID
+#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",R.MADRID -LEVANTE
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S3TGJ8p/elespo1k.png",ELEVEN SPORTS 1 PL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
