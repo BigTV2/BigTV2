@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 14/02/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 17/02/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",R.MADRID - R. SOCIEDAD
+#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",BENFICA - R.MADRID
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",ELEVEN SPORTS 2 PL
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/KcQf3NYf/SSPORT1.png",S SPORT 1 TR
-acestream://6ad87abc93cc3c8508be327e313afcd3aa37ec0b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRL
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 TR
-acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 FR
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="MADRID BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://f183cf6c5336e109f0572ffe0b471f0f79d19cf7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
