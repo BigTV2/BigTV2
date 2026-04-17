@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 15/04/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 17/04/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",BAYERN - R.MADRID
+#EXTINF:-1, tvg-logo="https://i.ibb.co/V06z6NQQ/logsma.png" group-title="REAL MADRID",R.MADRID - ALAVES
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRL
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
