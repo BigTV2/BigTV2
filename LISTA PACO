@@ -11,6 +11,8 @@ acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.3
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.4
+acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
 #EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
@@ -141,12 +143,40 @@ acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",LIGA DE CAMPEONES OP.5
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",MOVISTAR PLUS OP.1
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",MOVISTAR PLUS OP.2
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS OP.1
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS OP.2
+acestream://0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS OP.3
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS OP.4
+acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 2 OP.1
 acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 2 OP.2
 acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 2 OP.3
 acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 3 OP.1
+acestream://837883625d40e1eb5566eefaf74811046491f53a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 3 OP.2
+acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 3 OP.3
+acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",VAMOS 3 OP.4
+acestream://b7b1c1eeb4be09c63fbc2f319c9760851c274455
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.1
+acestream://6e031aed136bf97d8667fcd5fc49c73256928281
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.3
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.4
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 2 OP.1
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 2 OP.2
@@ -161,17 +191,35 @@ acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 acestream://f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 3 OP.3
 acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 4 OP.1
+acestream://2a5d90651e212106434edea5bfbba1a843b7b97c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 4 OP.2
+acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 4 OP.3
+acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 5 OP.1
 acestream://646a1ed4ece843de1979f7888cbdd4d937506a28
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 5 OP.2
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",EUROSPORT 1 OP.1
-acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",EUROSPORT 1 OP.2
-acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 6 OP.1
+acestream://e6cd9205e26b3b6680f607030c702e911272524a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 6 OP.2
+acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 8 OP.1
+acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES 8 OP.2
+acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DAZN 1 OP.2
 acestream://9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DAZN 1 OP.2
 acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-
-
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",HYPERMOTION OP.1
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",HYPERMOTION OP.2
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",HYPERMOTION OP.3
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",EUROSPORT 1 OP.1
+acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",EUROSPORT 1 OP.2
+acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
