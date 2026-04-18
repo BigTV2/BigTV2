@@ -13,10 +13,12 @@ acestream://b40212c43e96e97542ea00f2129212a054853a57
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.4
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
-#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
-acestream://6c8e46efd9b3df9ab94f4c6a891d70e3c1e8ef30
+#EXTINF:-1, tvg-logo="https://i.ibb.co/3Y4L9bLZ/1-0-19-74-A8-41-C-1-C00000-0-0-0.png" group-title="MADRID FEMENINO",VAMOS 2 OP.1
+acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/3Y4L9bLZ/1-0-19-74-A8-41-C-1-C00000-0-0-0.png",VAMOS 2 OP.2
+acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/3Y4L9bLZ/1-0-19-74-A8-41-C-1-C00000-0-0-0.png",VAMOS 2 OP.3
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="MADRID BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://f183cf6c5336e109f0572ffe0b471f0f79d19cf7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
