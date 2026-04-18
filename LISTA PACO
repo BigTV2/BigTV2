@@ -21,10 +21,6 @@ acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
 acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="MADRID BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://f183cf6c5336e109f0572ffe0b471f0f79d19cf7
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",PROBANDO
-acestream://520695cb84e39841352b8cd74e1723d86d9c9625
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",PROBANDO 2
-acestream://9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.3
@@ -131,3 +127,11 @@ acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
 acestream://11cbb5346d28af0b972e646832f4be23dd39502d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/39N2Ng5j/1-0-1-7569-412-1-C00000-0-0-0.png",DAZN MOTOGP OP.2
 acestream://18b03739d660f0066364343e226e437bf2555d56
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/LzFLhHJH/1-0-1-76-A4-41-E-1-C00000-0-0-0-1.png",DAZN 1 SERIE A
+acestream://9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",OKKO SPORTS
+acestream://aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 1
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
