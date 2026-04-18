@@ -225,3 +225,7 @@ acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OP.2
 acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/39N2Ng5j/1-0-1-7569-412-1-C00000-0-0-0.png",DAZN MOTOGP OP.1
+acestream://11cbb5346d28af0b972e646832f4be23dd39502d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/39N2Ng5j/1-0-1-7569-412-1-C00000-0-0-0.png",DAZN MOTOGP OP.2
+acestream://18b03739d660f0066364343e226e437bf2555d56
