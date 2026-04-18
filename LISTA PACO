@@ -21,6 +21,8 @@ acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
 acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="MADRID BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://f183cf6c5336e109f0572ffe0b471f0f79d19cf7
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",PROBANDO
+acestream://520695cb84e39841352b8cd74e1723d86d9c9625
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.3
