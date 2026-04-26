@@ -189,10 +189,18 @@ acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 acestream://eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k8yX1rR/dzn4.png",DAZN 4 OP.4
 acestream://d669c6cee7173a1c8994075f7050a6526655b1dc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN ACB OP.1
-acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN ACB OP.2
-acestream://34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.1
+acestream://0995b9b77ac6198dd92141369707fb99da09bdb2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
+acestream://8faa686a99697b99261346e479ead172b1d9d5d2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.3
+acestream://23bee556c002d0726c1f0cac98a1901cff0a9239
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.4
+acestream://53962d7fb865aff73b34a3afb2905cd492f60d75
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/LdqkWgwk/1-0-1-7568-412-1-C00000-0-0-0.png",DAZN BALONCESTO 2
+acestream://22b702984a0db43fd371c30e2df150b2336551cd
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Tq7FhKfB/1-0-1-7695-41-E-1-C00000-0-0-0.png",DAZN BALONCESTO 3
+acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.1
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.2
