@@ -51,8 +51,10 @@ acestream://22b702984a0db43fd371c30e2df150b2336551cd
 acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/kVm1K1Wy/SPKLPL.png",SPORT KLUB PL (LIGA ACB)
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/s95c0Zxp/SPTDIGDEU.png",SPORTDIGITAL 1+ DE (LIGA ACB)
-acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.1 (EUROLIGA)
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2 (EUROLIGA)
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png" group-title="TODOS LOS CANALES",LIGA DE CAMPEONES OP.1
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA DE CAMPEONES OP.2
