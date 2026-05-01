@@ -367,6 +367,8 @@ acestream://6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/d0PqmLGr/ORF-1-HD-neu-svg.png",ORF 1 DE (F1)
+acestream://c9d6412050226de0968cea19a383b50dc1966363
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.1
 acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.2
