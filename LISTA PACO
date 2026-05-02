@@ -3,8 +3,10 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png" group-title="REAL MADRID",PREMIER SPORTS 1 UK
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
