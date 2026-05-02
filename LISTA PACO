@@ -58,7 +58,11 @@ acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.2
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.1
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.2
+acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.3
+acestream://d60b8c154828cb990b7bb1570764b215bd979e74
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="TODOS LOS CANALES",LA LIGA OP.1
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
