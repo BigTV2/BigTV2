@@ -5,6 +5,8 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V0vHdw3S/ski1.png" group-title="EXTRANJEROS FUTBOL",SKY SPORT 1 DE
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",ELEVEN SPORTS 2 PL
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",OKKO SPORTS
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
