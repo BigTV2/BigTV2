@@ -30,21 +30,27 @@ acestream:/df6a549d5defc547f34eb52c114ff08d8332fe13
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.1 (EUROLIGA)
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2 (EUROLIGA)
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.3 (EUROLIGA)
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.4 (EUROLIGA)
-acestream://af393f93814d03160d48d2730759593b7bea5b47
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.5 (EUROLIGA)
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.6 (EUROLIGA)
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.1 (EUROLIGA)
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2 (EUROLIGA)
-acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3 (EUROLIGA)
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.4 (EUROLIGA)
 acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.5 (EUROLIGA)
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.6 (EUROLIGA)
+acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
