@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 09/05/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 17/05/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png" group-title="REAL MADRID",BeIN SPORTS 1 FR
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png" group-title="REAL MADRID",BeIN SPORTS 3 FR
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png",ELEVEN SPORTS 1 PL
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sh3L6SB/nova-sport.png",NOVA SPORT 4 GR
-acestream://1408de419b1abeac470094e284a07c3512342d69
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 1 IRL
-acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png" group-title="BALONCESTO",DAZN BALONCESTO 1 OP.1
 acestream://0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/k4sBjjCV/daznbal1.png",DAZN BALONCESTO 1 OP.2
