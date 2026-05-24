@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 22/05/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png" group-title="REAL MADRID",BeIN SPORTS 2 FR
+#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png" group-title="MUNDIAL 2026",BeIN SPORTS 2 FR
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
