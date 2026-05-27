@@ -3,20 +3,10 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png" group-title="MUNDIAL 2026",BeIN SPORTS 2 FR
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 1 RU
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sh3L6SB/nova-sport.png",NOVA SPORT 4 GR
-acestream://1408de419b1abeac470094e284a07c3512342d69
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SpSN1zj/ele3.png",ELEVEN SPORTS 3 PL
-acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 2 UK
-acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL 3
-acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
