@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="ROLAND GARROS",EUROSPORT 1 OP.1 ESP
 acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OP.2 ESP
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OP.2 ESP
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OP.1 ESP
 acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
