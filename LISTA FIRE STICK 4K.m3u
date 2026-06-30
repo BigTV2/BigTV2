@@ -3,6 +3,12 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 12/12/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1, tvg-logo="https://i.ibb.co/n8Bw5fNt/1-0-19-7534-426-1-C00000-0-0-0.png" group-title="MUNDIAL 2026",DAZN MUNDIAL
+acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",DANZ MUNDIAL OP.2
+acestream://3c4185422b04ef24c80e015210339f805d80f9f0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/XrR67s0b/zdflog.webp",ZDF
+acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V0vHdw3S/ski1.png" group-title="EXTRANJEROS FUTBOL",SKY SPORT 1 DE
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",ELEVEN SPORTS 2 PL
