@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 31/05/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/n8Bw5fNt/1-0-19-7534-426-1-C00000-0-0-0.png" group-title="MUNDIAL 2026",DAZN MUNDIAL
+#EXTINF:-1, tvg-logo="https://i.ibb.co/n8Bw5fNt/1-0-19-7534-426-1-C00000-0-0-0.png" group-title="REAL MADRID",DAZN MUNDIAL
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/n8Bw5fNt/1-0-19-7534-426-1-C00000-0-0-0.png",DAZN MUNDIAL
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
