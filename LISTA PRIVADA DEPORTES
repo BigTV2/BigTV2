@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="WIMBLEDON",M. DEPORTES 1 OP.1 
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",M. DEPORTES 1 OP.2
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",M. DEPORTES 1 OP.3
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",M. DEPORTES 1 OP.4
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",M. DEPORTES 1 OP.5
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GknB3mY/dep2.png",DEPORTES 2 OP.1
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
