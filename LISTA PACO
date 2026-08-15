@@ -223,6 +223,8 @@ acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 3 RU
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 3 RU OP.2
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 1 IRL
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRL
@@ -309,3 +311,7 @@ acestream://df6a549d5defc547f34eb52c114ff08d8332fe13
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",OKKO SPORTS
 acestream://aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",SPORT TV 7 PT (FALTA LOGO)
+acestream://e6b9ccd80ee0027e887d0a27b07e8f032de25b27
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",SPORT 3 ISR (FALTA LOGO)
+acestream:/e4fe8f324753ec40b2d3a238a64febd68c87cb0a
