@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 15/08/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 18/08/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png" group-title="LA LIGA",MATCH FOOTBALL 2 RU
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png" group-title="REAL MADRID",MATCH FOOTBALL 2 RU
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 2 UK
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
