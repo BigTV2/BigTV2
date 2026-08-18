@@ -11,6 +11,8 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sh3L6SB/nova-sport.png",NOVA SPORT 4 GR
+acestream://1408de419b1abeac470094e284a07c3512342d69
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
