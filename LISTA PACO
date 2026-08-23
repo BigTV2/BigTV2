@@ -13,6 +13,8 @@ acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lz2304Fb/PLUSPOLSA2.png",CANAL+SPORT 2 PL
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
