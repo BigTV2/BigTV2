@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 18/08/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png" group-title="REAL MADRID",ZIGGO SPORT NL
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
+#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="REAL MADRID",DAZN 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
