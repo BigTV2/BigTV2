@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="US OPEN",M. DEPORTES 1 OP.1 
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="M. DEPORTES",DEPORTES OP.1
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
