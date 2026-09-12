@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 08/09/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 12/09/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="REAL MADRID",DAZN 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/DfM1G8fv/0-yp0BS.jpg",OKKO SPORTS
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.1 
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA DE CAMPEONES OP.1
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2 RU
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
@@ -351,3 +347,7 @@ acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.1 
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA DE CAMPEONES OP.1
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
