@@ -21,6 +21,8 @@ acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="HYPERMOTION ALFONSO",HYPERMOTION
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="M. DEPORTES",DEPORTES OP.1
