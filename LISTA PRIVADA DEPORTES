@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA ALFONSO",LA LIGA 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="LA LIGA ALFONSO",MOVISTAR PLUS
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.3
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2 RU
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
