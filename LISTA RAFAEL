@@ -3,12 +3,16 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 25/10/27
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png" group-title="EXTRANJEROS FUTBOL",LIGA
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",CHAMPIONS
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="EXTRANJEROS FUTBOL",LIGA OP.1
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",LIGA OP.2
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",LIGA OP.2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",liga op.3
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",LIGA OP.4
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/d0PqmLGr/ORF-1-HD-neu-svg.png",ORF 1 DE (F1)
