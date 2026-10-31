@@ -3,6 +3,12 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 06/02/27
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png" group-title="TENIS ALCARAZ",SERVUS TV DE
+acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/HLMCBk6w/psp1.png",POLSAT SPORT PREMIUM 1 PL
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GknB3mY/dep2.png",DEPORTES 2
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V0vHdw3S/ski1.png" group-title="EXTRANJEROS FUTBOL",LIGA
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",CHAMPIONS
