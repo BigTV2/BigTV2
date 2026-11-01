@@ -10,11 +10,11 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GknB3mY/dep2.png",DEPORTES 2
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V0vHdw3S/ski1.png" group-title="EXTRANJEROS FUTBOL",LIGA
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",CHAMPIONS
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/kVm1K1Wy/SPKLPL.png",SPORT KLUB PL (LIGA ACB)
-acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",LIGA OP.2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",LIGA OP.3
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
