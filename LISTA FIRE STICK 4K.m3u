@@ -3,10 +3,14 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 12/12/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png" group-title="EXTRANJEROS FUTBOL",LIGA
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Wpv329q7/ele2.png",CHAMPIONS
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="EXTRANJEROS FUTBOL",DAZN 2 PT
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
