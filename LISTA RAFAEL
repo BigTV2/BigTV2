@@ -12,6 +12,12 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BxYHgsd/dazn3por.png",DAZN 3 PT (ATLETI)
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK (ATLETI)
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL 3 (ATLETI)
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/d0PqmLGr/ORF-1-HD-neu-svg.png",ORF 1 DE (F1)
