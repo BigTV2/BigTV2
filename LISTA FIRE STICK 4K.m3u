@@ -135,18 +135,6 @@ acestream://a2d33536b7d55727c8f6bea010624d6478c3ba2d
 acestream://0b05fa66cfd62f9d4f686ff42f0c52ff3196a9fa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png",MOVISTAR PLUS 2
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.1
-acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
-acestream://be93edb36056187656714f66c84026662f483e2f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.3
-acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.4
-acestream://4639224a85a8e244acfbf6f7f616e062354cf485
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k2ykcw0m/mbaloncesto2.png",MOVISTAR BALONCESTO 2
-acestream://e9c285968edade2d0ce4cdcaa32bbe5f97716fb5
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k2ykcw0m/mbaloncesto2.png",MOVISTAR BALONCESTO 3
-acestream://e675aecf437124d37f7f2daf31669f1af532a50c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="DAZN",DAZN 1 OP.1
 acestream://49545d05f95846e93fd8f08da320be866995c550
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.2
@@ -205,6 +193,18 @@ acestream://9bb56662445103b1979e92d3578c9d75f79f8787
 acestream://a255f1972d81d8e716a987b1e9b02a1905eb081c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/6rv7qfX/mdp7.png",DEPORTES 8
 acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a
+#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="M. BALONCESTO",M. BALONCESTO OP.1
+acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
+acestream://be93edb36056187656714f66c84026662f483e2f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.3
+acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.4
+acestream://4639224a85a8e244acfbf6f7f616e062354cf485
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k2ykcw0m/mbaloncesto2.png",MOVISTAR BALONCESTO 2
+acestream://e9c285968edade2d0ce4cdcaa32bbe5f97716fb5
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k2ykcw0m/mbaloncesto2.png",MOVISTAR BALONCESTO 3
+acestream://e675aecf437124d37f7f2daf31669f1af532a50c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
 acestream://9311a4590f5966acbb77e4c2d13e1be17fd258b4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
