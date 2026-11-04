@@ -3,18 +3,12 @@
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 06/02/27
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="FUTBOL ESTABLE EXTRANJEROS",DAZN 1 PT
+#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="FUTBOL EXTRAJEROS",DAZN 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL 3
-acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/prGY9Vb6/zggo.png",ZIGGO SPORT 6 NL
-acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
-acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/cH1ZfdNR/prsp1.png",PREMIER SPORTS 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1
 acestream://1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
