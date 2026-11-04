@@ -9,26 +9,6 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
-acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.1
-acestream://218137b5dc6bb17ec3df65019225ceb7ddeb37e6
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.2
-acestream://002ebb242685b729fd1235fc24c93110593343a6
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.3
-acestream://aaf8f939186264a31449c5e31ebf424965b0369f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.4
-acestream://49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.5
-acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.6
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.1
-acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.2
-acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1
 acestream://1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
@@ -249,6 +229,26 @@ acestream://8d752ceceaa26b063d8edfa9c70352ada62c424d
 acestream://30de10517ae304747a56addc1dfba2e963852e52
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS 3 OP.4
 acestream://acc2d46eaf6a0b4c3dbd299ffcd67c2b946c2c3e
+#EXTINF:-1, tvg-logo="https://i.ibb.co/WWXhRTmM/F1SKI.webp" group-title="MOTOR",SKY SPORT F1 DE
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
+acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.1
+acestream://218137b5dc6bb17ec3df65019225ceb7ddeb37e6
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.2
+acestream://002ebb242685b729fd1235fc24c93110593343a6
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.3
+acestream://aaf8f939186264a31449c5e31ebf424965b0369f
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.4
+acestream://49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.5
+acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.6
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.1
+acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.2
+acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OP.1
 acestream://ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OP.1
