@@ -243,3 +243,13 @@ acestream://c499ba98f4b0d78804ef5aa64e5d1f4d44f7e2e9
 acestream://8c22182e8ebe7320c97d87d030a6b5741c84f782
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png",M. GOLF 2 OP.2
 acestream://ced3af9d4f5f90fa0c2465d3e01d24dfe7f8e22c
+#EXTINF:-1, tvg-logo="https://i.ibb.co/5gh47P8Z/nbaligpass.webp" group-title="NBA",NBA LEAGUE PASS OP.1
+acestream://8698d62f3b2a35aabb599c420b06945ea006400b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5gh47P8Z/nbaligpass.webp",NBA LEAGUE PASS OP.2
+acestream://2eedcbcc7173d3622804609460687d3e5a19e1ff
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5gh47P8Z/nbaligpass.webp",NBA LEAGUE PASS OP.3
+acestream://4af480f65d5d09eea5b546a79ace5b55979c7685
+#EXTINF:-1, tvg-logo="https://i.ibb.co/zVfZJx8x/skisptens.webp" group-title="TENIS",SKY SPORTS TENIS
+acestream://1694a82acf03948111efa7b30765eee5c7091d78
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lz4wVgv1/tnschnl.webp",TENNIS CHANEL
+acestream://6945bf402126a38905b2645d61f9915a3b5a8b09
