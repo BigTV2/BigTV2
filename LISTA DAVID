@@ -199,8 +199,10 @@ acestream://e5b57c3919b1714f01cb6e5f1812d22aa87bae2b
 acestream://09ee8afc1d9b468d3b470c682cfcacd58a95e273
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Tq7FhKfB/1-0-1-7695-41-E-1-C00000-0-0-0.png",DAZN BALONCESTO 3
 acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0RG3zv4M/Sport5-Logo.png",SPORT 5 IL (EUROLIGA)
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0RG3zv4M/Sport5-Logo.png",SPORT 5 IL (EUROLIGA/NBA)
 acestream:/df6a549d5defc547f34eb52c114ff08d8332fe13
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 1 IRL (NBA)
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5gh47P8Z/nbaligpass.webp",NBA LEAGUE PASS OP.1
 acestream://8698d62f3b2a35aabb599c420b06945ea006400b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5gh47P8Z/nbaligpass.webp",NBA LEAGUE PASS OP.2
