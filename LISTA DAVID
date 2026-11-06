@@ -212,13 +212,9 @@ acestream://8c22182e8ebe7320c97d87d030a6b5741c84f782
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png",M. GOLF 2 OP.2
 acestream://ced3af9d4f5f90fa0c2465d3e01d24dfe7f8e22c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
-acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
-acestream://be93edb36056187656714f66c84026662f483e2f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.3
 acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.4
-acestream://4639224a85a8e244acfbf6f7f616e062354cf485
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
+acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k2ykcw0m/mbaloncesto2.png",MOVISTAR BALONCESTO 2
 acestream://e9c285968edade2d0ce4cdcaa32bbe5f97716fb5
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nMqYD36t/mbalon3.png",MOVISTAR BALONCESTO 3
