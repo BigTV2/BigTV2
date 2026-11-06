@@ -109,8 +109,6 @@ acestream://0664b139ecacfe236cab92ebbb26f2d5a6816455
 acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
 acestream://a2d33536b7d55727c8f6bea010624d6478c3ba2d
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
-acestream://0b05fa66cfd62f9d4f686ff42f0c52ff3196a9fa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png",MOVISTAR PLUS 2
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="DAZN",DAZN 1 OP.1
