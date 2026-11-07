@@ -244,7 +244,9 @@ acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.1
 acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.2
-acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
+acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.3
+acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OP.1
 acestream://ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OP.1
