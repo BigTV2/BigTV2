@@ -105,6 +105,10 @@ acestream://6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
 acestream://130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="HYPERMOTION",LA LIGA HYPERMOTION OP.1
 acestream://de00099a1fc928f292bb92d62a0841ac7104e31c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION 1 OP.2
+acestream://9743a3b8d01520ec383434fd829340c9d53a7077
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION 1 OP.3
+acestream://a19cada553b895e719796741d9d86785c986fce0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2 OP.1
 acestream://c0a65c43437197b24b216c44de4276a17a468554
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jTDMn0g/ligseg2.png",LA LIGA HYPERMOTION 2 OP.2
