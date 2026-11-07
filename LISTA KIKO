@@ -133,8 +133,12 @@ acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 acestream://49545d05f95846e93fd8f08da320be866995c550
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.2
 acestream://7dfdad16b3f6e75015a3496f43f3a7d290f3e3bc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.1
+acestream://27ed8f532a68301bff62becf01769bb524904814
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.2
 acestream://feea1c77fb2692e4de0a4465628b367eb4c8aec0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 OP.3
+acestream://e748e196d4f26edd7e743cd0d901bfc23d807794
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/LRmytcg/dzn.png",DAZN 3
 acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k8yX1rR/dzn4.png",DAZN 4
@@ -176,9 +180,9 @@ acestream://a255f1972d81d8e716a987b1e9b02a1905eb081c
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/6rv7qfX/mdp7.png",DEPORTES 8
 acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a
 #EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
-acestream://9311a4590f5966acbb77e4c2d13e1be17fd258b4
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
 acestream://9e5da99bac88a4a3ed200d3bdf260b683145ca57
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
+acestream://1b0374aae74e9792034b21298d6b3dfa25bc60c1
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N61wWzdr/vms2.png",VAMOS 2 OP.1
 acestream://eadc069bbd45d77cb33ca3bac6f6d86281597122
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N61wWzdr/vms2.png",VAMOS 2 OP.2
@@ -188,8 +192,10 @@ acestream://973094e625613b693cffb05a3f98fabe2d59dafa
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N61wWzdr/vms2.png",VAMOS 2 OP.4
 acestream://acd22bfea329235832b0d1d8d1ab7a963b31d5c7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SXQ8SNYY/vms3.png",VAMOS 3 OP.1
-acestream://354a0fac478c2887a6e0382b1f39a54a5f7f7de1
+acestream://8d752ceceaa26b063d8edfa9c70352ada62c424d
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SXQ8SNYY/vms3.png",VAMOS 3 OP.2
+acestream://30de10517ae304747a56addc1dfba2e963852e52
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/SXQ8SNYY/vms3.png",VAMOS 3 OP.3
 acestream://acc2d46eaf6a0b4c3dbd299ffcd67c2b946c2c3e
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0
@@ -242,7 +248,9 @@ acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.1
 acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.2
-acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
+acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.3
+acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OP.1
 acestream://ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OP.1
