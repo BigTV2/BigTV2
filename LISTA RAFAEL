@@ -258,13 +258,15 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/k6w1nm82/servus.png",SERVUS TV DE (MOTOGP)
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.1
-acestream://aaf8f939186264a31449c5e31ebf424965b0369f
+acestream://962c7fe92b214b0962459bec921a5cdcc28bcfe3
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.2
-acestream://03350f8996d41efb71c3e7a9a777e41d11df702f
+acestream://4c5edd25e0b77512172aa1b06c55773ff0d8ceb1
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.3
-acestream://002ebb242685b729fd1235fc24c93110593343a6
+acestream://9ad6aa4ed4683e7ea58bf1de241516e1fcd886ef
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.4
-acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
+acestream://3104d58909f284e949844fb6a39e0baf1a6fc3e4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0yt3R0Vj/motogp.png",DAZN MOTOGP OP.4
+acestream://36e61c0f5bf9c83ef3bfe9777e3d2f7d9e8e62df
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.1
 acestream://cc1e589254acacb246733233397d50e3ab3591a7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.2
