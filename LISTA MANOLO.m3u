@@ -243,6 +243,8 @@ acestream://c7e20411cecda0cafad50aef6d91822ebc8b9f10
 acestream://f96f1d150f2005c5040c2c08a31d8d2483c96ebc
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lz4wVgv1/tnschnl.webp",TENNIS CHANEL OP.2
 acestream://1e6f2808b5604164736b8cf597744e8ddd4c4faf
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0w20zXb/polsatchl.png",POLSAT SPORT 1 PL (ALCARAZ)
+acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.1
 acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
@@ -250,13 +252,10 @@ acestream://96cc6b02a0ce66ed3a01d9904e7ee8db0f2da5d7
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.3
 acestream://68b53041272592f4fbf00bf38cd91e54a4e16abf
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.1
-acestream://63307e32e9cbf51e7ca610f9fac0b9910217ea49
 acestream://41446170bcb67823481f395a55ac89eab981660a
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
-acestream://63307e32e9cbf51e7ca610f9fac0b9910217ea49
 acestream://64e015e8aed9abcad5c7dd960b6a1d07e6deb039
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.3
-acestream://63307e32e9cbf51e7ca610f9fac0b9910217ea49
 acestream://e1cbf42f80ce35e6ec7c69d8c5307245aebfd1d0
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GknB3mY/dep2.png",DEPORTES 2 OP.1
 acestream://6b556144b907286ddc6dc071ecf7362b0fab5f78
