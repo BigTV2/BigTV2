@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 24/11/26
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 28/11/26
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="REAL MADRID",DAZN 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/V0Sj32gc/tnt2.png",TNT SPORTS 2 UK
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfGdvFhF/zigo1.png",ZIGGO SPORT NL
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nR3Lwrf/doss.png",DAZN 2 BAR DE
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2 RU
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.postimg.cc/qvg3xdpd/stanta1.png",SETANTA SPORTS 2 IRL
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 2 FR
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png" group-title="BALONCESTO",MOVISTAR BALONCESTO OP.1
 acestream://d9e468180fcd3dcd45141dc09f56ea21eb88912e
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tw9z7ZDM/mbaloncesto.png",MOVISTAR BALONCESTO OP.2
@@ -101,9 +107,9 @@ acestream://1408de419b1abeac470094e284a07c3512342d69
 acestream://6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH RU
 acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 1 RU
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2 RU
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 1 RU OP.2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 2 RU OP.2
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Lzt7GjdC/pngegg.png",MATCH FOOTBALL 3 RU
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
